@@ -1,2 +1,0 @@
-
-sprintf("Dzhihan Ahmedov");
