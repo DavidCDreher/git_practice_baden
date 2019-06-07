@@ -1,5 +1,5 @@
 PrintBla()
 
 function PrintBla()
-sprintf("Bla")
+sprintf("Hello World")
 end
