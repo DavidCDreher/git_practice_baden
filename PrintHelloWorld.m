@@ -1,3 +1,5 @@
-function PrintHelloWorld()
+PrintBla()
+
+function PrintBla()
 sprintf("Hello World")
 end
